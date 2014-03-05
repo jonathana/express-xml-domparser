@@ -1,13 +1,13 @@
 {
   "name": "express-xml-domparser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware to read in the body of an XML http request into a DOM",
   "main": "index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jonathana/express-xml-domreader.git"
+    "url": "git@github.com:jonathana/express-xml-domparser.git"
   },
   "keywords": [
     "expressjs",
@@ -18,9 +18,9 @@
   "author": "Jonathan M. Altman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonathana/express-xml-domreader/issues"
+    "url": "https://github.com/jonathana/express-xml-domparser/issues"
   },
-  "homepage": "https://github.com/jonathana/express-xml-domreader",
+  "homepage": "https://github.com/jonathana/express-xml-domparser",
   "dependencies": {
     "libxmljs": "~0.8.1"
   }
