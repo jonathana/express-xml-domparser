@@ -1,6 +1,6 @@
 {
   "name": "express-xml-domparser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Express middleware to read in the body of an XML http request into a DOM",
   "main": "index.js",
   "repository": {
